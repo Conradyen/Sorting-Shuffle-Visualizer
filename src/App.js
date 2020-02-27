@@ -100,7 +100,7 @@ function App() {
       animations = QuickSort(arrayforSort.slice(0, useLength));
     }
     for (let i = 0; i < animations.length; i++) {
-      const arrayBars = document.getElementsByClassName("makeStyles-bar-317");
+      const arrayBars = document.getElementsByClassName("Sort_Bar");
       const isColorChange = i % 4 === 0 || i % 4 === 1;
       if (isColorChange === true) {
         const color = i % 4 === 0 ? SECONDARY_COLOR : PRIMARY_COLOR;
@@ -132,7 +132,7 @@ function App() {
     }
     //const animations = FYShuffle(arrayforSort.slice(0, useLength));
     for (let i = 0; i < animations.length; i++) {
-      const arrayBars = document.getElementsByClassName("makeStyles-bar-317");
+      const arrayBars = document.getElementsByClassName("Sort_Bar");
       const isColorChange = i % 4 === 0 || i % 4 === 1;
       if (isColorChange === true) {
         const color = i % 4 === 0 ? SECONDARY_COLOR : PRIMARY_COLOR;
