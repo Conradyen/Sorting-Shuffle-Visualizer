@@ -3,7 +3,7 @@
 This project implements and vasualize merge sort, quick sort and bubble sort, fisher yates shuffle and spotify shuffle. You can access through https://conradyen.github.io/Sorting-Shuffle-Visualizer/. Hope you enjoy play around with this project.
 
 
-- [Spotify shuffle](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/) is a shuffle used by spotify to increasing the feeling of randomness not like fisher yates shuffle this algorithm is not really random.
+- [Spotify shuffle](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/) is a shuffling algorithm used by spotify (kind of but I am not sure, but from there blog post it seems to be true) to increasing the "feeling" of randomness not like fisher yates shuffle this algorithm is not really random.
 
 ## Available Scripts
 
