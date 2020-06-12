@@ -1,21 +1,34 @@
 # Shuffle-and-Shorting-Visualizer
 
-This project implements and vasualize merge sort, quick sort and bubble sort, fisher yates shuffle and spotify shuffle. You can access through https://conradyen.github.io/Sorting-Shuffle-Visualizer/. Hope you enjoy play around with this project.
+This project implements and vasualize shuffle and sorting algorithms. The process is being split into sequence first shuffle the array than sort the array finally check if the array is sorted. You can access through https://conradyen.github.io/Sorting-Shuffle-Visualizer/. Hope you enjoy play around with this project.
 
+### Sort algorithms
+- merge sort
+- quick sort
+- bubble sort
+- merge sort 
+- insertion sort
+- selection sort and 
+- heap sort. 
 
-- [Spotify shuffle](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/) is a shuffling algorithm used by spotify (kind of but I am not sure, but from there blog post it seems to be true) to increasing the "feeling" of randomness not like fisher yates shuffle this algorithm is not really random.
+### Shuffle algorithms
+
+- Fisher yates shuffle
+- Sattolo shuffle
+- Naive shuffle.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install all dependencies of this project.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 ## Acknowledgement
 
