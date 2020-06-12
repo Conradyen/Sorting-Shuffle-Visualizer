@@ -27,7 +27,7 @@ const SwappedBar = styled.div`
 const Container = styled.div`
   display: flex;
   align-items: center;
-  font-size: 25px;
+  font-size: 20px;
   margin: 5px;
   font-family: "Anton", sans-serif;
 `;

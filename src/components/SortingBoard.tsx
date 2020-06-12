@@ -48,7 +48,7 @@ const AlertChild = styled.div`
   background: var(--background);
   font-family: "Anton", sans-serif;
   font-size: 30px;
-  colot: var(--title);
+  color: var(--title);
   padding-top: 30px;
 `;
 
